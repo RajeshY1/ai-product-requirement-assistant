@@ -1,0 +1,34 @@
+Use Case 1: Instant PRD Summary
+Scenario:
+A PM uploads a 20-page PRD.
+AI Output:
+•	TL;DR summary 
+•	Key features 
+•	Risks 
+ Impact: Saves hours of reading time
+
+ Use Case 2: Requirement Extraction
+Input:
+•	Meeting notes / research document 
+Output:
+•	Functional requirements 
+•	User stories 
+•	Prioritized features 
+ Impact: Eliminates manual documentation
+
+Use Case 3: Product Q&A Assistant
+Scenario:
+Engineer asks:
+“What are the checkout flow requirements?”
+AI Response:
+•	Instant answer from PRD 
+Impact: Reduces PM interruptions
+
+ Use Case 4: Gap Detection
+Scenario:
+AI analyzes PRD and flags:
+•	Missing success metrics 
+•	Edge cases not covered 
+•	Undefined risks 
+ Impact: Prevents product failures
+
