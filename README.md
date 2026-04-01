@@ -86,5 +86,9 @@ Future Scope
 •	Voice-based PRD interaction 
 •	Auto PRD generation
 <img width="1366" height="768" alt="Picture3" src="https://github.com/user-attachments/assets/f0528f03-61fa-4238-82b4-e1e1bb3d8b26" />
+<img width="1366" height="768" alt="Flowise1" src="https://github.com/user-attachments/assets/90f70a72-14e7-489d-893c-1e2a8729a881" />
+<img width="1366" height="768" alt="Picture2" src="https://github.com/user-attachments/assets/b902a376-ff39-4d65-8b49-ae9cb410524b" />
+
+
 
 
