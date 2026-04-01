@@ -85,4 +85,6 @@ Future Scope
 •	Slack integration (team queries) 
 •	Voice-based PRD interaction 
 •	Auto PRD generation
+<img width="1366" height="768" alt="Picture3" src="https://github.com/user-attachments/assets/f0528f03-61fa-4238-82b4-e1e1bb3d8b26" />
+
 
